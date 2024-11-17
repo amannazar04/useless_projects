@@ -37,3 +37,8 @@ For Software:
 # Installation
 Clone the repository.
 Run the command pip install -r requirements.txt to install necessary dependencies.
+
+
+### Output
+It has been uploaded as a video in this repository itself. Check it out:
+https://github.com/amannazar04/useless_projects/blob/main/Screen%20Recording%202024-11-17%20115826.mp4
